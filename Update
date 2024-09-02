@@ -20,5 +20,4 @@ int sumA = 0, sumB = 0;
             }
         }
         
-        // This line will never be reached because the problem guarantees that at least one solution exists
-        throw new IllegalStateException("No valid solution found");
+       
